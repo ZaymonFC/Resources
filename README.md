@@ -1,6 +1,6 @@
 # Resources
 
-> List of resources for programming and professional development
+> List of resources for programming and professional development (GitHub Mirror of [this Notion.so Page](https://www.notion.so/Resources-1c1893d00fbb43d183bca26a4ccdd0c4))
 
 ## Videos
 
