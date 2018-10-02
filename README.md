@@ -1,28 +1,31 @@
 # Resources
+> List of resources for programming and professional development 📚
 
-> List of resources for programming and professional development (GitHub Mirror of [this Notion.so Page](https://www.notion.so/Resources-1c1893d00fbb43d183bca26a4ccdd0c4))
-
-## Videos
-
-- Event Sourcing || CQRS
+## Videos 🎥
+- Event Sourcing || CQRS ⚔⚖
 
     [YOW! 2017 Sebastian von Conrad - An In-Depth Look at Event Sourcing with CQRS](https://www.youtube.com/watch?v=dI91AJVVuNg)
 
-## Articles
-
+## Articles 📑
 - F#
 
     [Learning F# | The F# Software Foundation](https://fsharp.org/learn.html)
 
     [Twenty six low-risk ways to use F# at work](https://fsharpforfunandprofit.com/posts/low-risk-ways-to-use-fsharp-at-work/)
 
-- General Programming
-- Functional Programming
-
-    [Composing Software: An Introduction - JavaScript Scene - Medium](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea)
+- Functional Programming 🔮🔥
 
     [Abstraction & Composition - JavaScript Scene - Medium](https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6)
 
+    [Composing Software: An Introduction - JavaScript Scene - Medium](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea)
+
+    [The Hidden Treasures of Object Composition - JavaScript Scene - Medium](https://medium.com/javascript-scene/the-hidden-treasures-of-object-composition-60cd89480381)
+
+    [Mocking is a Code Smell - JavaScript Scene - Medium](https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a)
+
+    [JavaScript Monads Made Simple - JavaScript Scene - Medium](https://medium.com/javascript-scene/javascript-monads-made-simple-7856be57bfe8)
+
+- General Programming ⌨
 - JavaScript
 
     [Important JavaScript Concepts Every Developer MUST Know](https://medium.com/@faizan.amjad47/important-concepts-every-javascript-developer-must-know-ddcc1627f077)
@@ -31,16 +34,24 @@
 
     [Diamond kata via property-based TDD in JavaScript - Hacker Noon](https://hackernoon.com/diamond-kata-via-property-based-tdd-in-javascript-5fa99acd3e62)
 
-- Data Structures
-- Web Design and CSS
+- Data Structures 📭📫
+- Web Design and CSS ✒
+
+    [BEM - Block Element Modifier](http://getbem.com/introduction/)
 
     [How to get better at writing CSS - freeCodeCamp.org](https://medium.freecodecamp.org/how-to-get-better-at-writing-css-a1732c32a72f)
 
-- Career and Professional Development
+- React 🌌 || Redux 🌟
+
+    [Isn't our code just the *BEST* 🙄 - Bumpers - Medium](https://medium.com/bumpers/isnt-our-code-just-the-best-f028a78f33a9)
+
+    [Redux 4 Ways - React Native Training - Medium](https://medium.com/react-native-training/redux-4-ways-95a130da0cdc)
+
+- Career and Professional Development 📃
 
     [How to write a great resume for software engineers - freeCodeCamp.org](https://medium.freecodecamp.org/how-to-write-a-great-resume-for-software-engineers-75d514dd8322)
 
-## Challenges and Problems
+## Challenges and Problems 📝
 
 - Daily Challenges
 
@@ -51,6 +62,7 @@
     [F# | Exercism](https://exercism.io/tracks/fsharp)
 
     [Solve Functional Programming Code Challenges](https://www.hackerrank.com/domains/fp)
+
 
 ## Books
 
