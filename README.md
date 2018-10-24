@@ -1,12 +1,15 @@
 # Resources
+
 > List of resources for programming and professional development 📚
 
 ## Videos 🎥
+
 - Event Sourcing || CQRS ⚔⚖
 
     [YOW! 2017 Sebastian von Conrad - An In-Depth Look at Event Sourcing with CQRS](https://www.youtube.com/watch?v=dI91AJVVuNg)
 
 ## Articles 📑
+
 - F#
 
     [Learning F# | The F# Software Foundation](https://fsharp.org/learn.html)
@@ -35,6 +38,7 @@
     [Diamond kata via property-based TDD in JavaScript - Hacker Noon](https://hackernoon.com/diamond-kata-via-property-based-tdd-in-javascript-5fa99acd3e62)
 
 - Data Structures 📭📫
+
 - Web Design and CSS ✒
 
     [BEM - Block Element Modifier](http://getbem.com/introduction/)
@@ -51,6 +55,16 @@
 
     [How to write a great resume for software engineers - freeCodeCamp.org](https://medium.freecodecamp.org/how-to-write-a-great-resume-for-software-engineers-75d514dd8322)
 
+- Side Projects 🏗
+    - [Medium] - [How to Price Your Side-Project](https://medium.freecodecamp.org/how-to-price-your-side-project-f4e0f86dbfde)
+    - [Medium] - [A Beginner's Guide to Rapid Prototyping](https://medium.freecodecamp.org/a-beginners-guide-to-rapid-prototyping-71e8722c17df)
+
+## Courses 🎓
+
+- React 🌌 || Redux 🌟
+
+    [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
+
 ## Challenges and Problems 📝
 
 - Daily Challenges
@@ -63,10 +77,18 @@
 
     [Solve Functional Programming Code Challenges](https://www.hackerrank.com/domains/fp)
 
-
-## Books
+## Books 📖
 
 - Functional Programming
-    [Structure and Interpretation of Computer Programs (MIT Press)](http://web.mit.edu/alexmv/6.037/sicp.pdf)
 
-    
+    [MIT Press] - [Structure and Interpretation of Computer Programs](http://web.mit.edu/alexmv/6.037/sicp.pdf)
+
+## Game Stuff 🎮🕹
+
+- Articles
+
+    [Game programming patterns in Unity with C# | Habrador](https://www.habrador.com/tutorials/programming-patterns/)
+
+- Books
+
+    [Game Programming Patterns](http://gameprogrammingpatterns.com/)
